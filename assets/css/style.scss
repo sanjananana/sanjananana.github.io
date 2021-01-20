@@ -18,3 +18,12 @@ pre { font-family: "Josefin Sans"; font-size: 13px; font-style: normal; font-var
 a {
   color: #00e6ac;
 }
+
+ul.clickhere {
+  list-style-type: none; 
+  height:40px;
+}
+.clickhere li {
+  display: inline;
+}
+
