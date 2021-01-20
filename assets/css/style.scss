@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 /*Change font on website to automatically be Josefin Sans*/
+body {
+  font-family: "Josefin Sans";
+}
+/*Change size of specific elements*/
 h1 { font-family: "Josefin Sans"; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } 
 h2 { font-family: "Josefin Sans"; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } 
 h3 { font-family: "Josefin Sans"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } 
