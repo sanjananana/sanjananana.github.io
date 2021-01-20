@@ -1,37 +1,8 @@
 ## Hi! I'm Sanjana
 
-You can use the [editor on GitHub](https://github.com/sanjananana/sanjananana.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a proud graduate from the University of Maryland with a BS in Computer Science and BA in Linguistics. I've done some pretty cool stuff in my time. I have:
+1. Run some of the nation's largest collegiate hackathons, [Technica](https://gotechnica.org/) and [Bitcamp](https://bit.camp/) for over 4 years
+2. Worked at NASA on the [ExoMars mission](https://www.nasa.gov/feature/goddard/2018/moma) to see how machine learning can be introduced in exploring data from Mars 
+3. Ran a [technical AI community](https://www.rsqrdai.org/) and helped build its brand - established presence on social media, wrote technical blog posts, and coordinated speaker logistics
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sanjananana/sanjananana.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I'm super passionate about a lot of different things - AI/ML, linguistics, design, research, product, a good flan, etc. I also have experience doing a lot of different things - marketing, project management, design work, technical writing, strategy, engineering, etc. My (incredibly) mixed background is what makes me today: someone who wants to make a difference on tomorrow's products.
