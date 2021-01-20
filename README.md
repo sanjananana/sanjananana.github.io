@@ -9,4 +9,4 @@ I'm super passionate about a lot of different things - AI/ML, linguistics, desig
 
 Want to get to know me better? Check out my [resume](https://sanjananana.github.io/files/pdfs/SCResume_Website.pdf) and [writing portfolio](https://sanjananana.github.io/files/pdfs/Writing_Portfolio_SChowdhury.pdf)!
 
-Think I'm a cool cat? Feel free to reach out on my [LinkedIn](https://www.linkedin.com/in/smchowdhury/) or [email](mailto:sanjanamchowdhury@gmail.com) :)
+Think I'm a cool cat? Feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/smchowdhury/) or [email](mailto:sanjanamchowdhury@gmail.com) :)
