@@ -6,3 +6,5 @@ I'm a proud graduate from the University of Maryland with a BS in Computer Scien
 3. Ran a [technical AI community](https://www.rsqrdai.org/) and helped build its brand - established presence on social media, wrote technical blog posts, and coordinated speaker logistics
 
 I'm super passionate about a lot of different things - AI/ML, linguistics, design, research, product, a good flan, etc. I also have experience doing a lot of different things - marketing, project management, design work, technical writing, strategy, engineering, etc. My (incredibly) mixed background is what makes me today: someone who wants to make a difference on tomorrow's products.
+
+Want to get to know me better? 
