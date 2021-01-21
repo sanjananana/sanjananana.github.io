@@ -42,4 +42,15 @@ Looking for a clean + downloadable pdf version? [Click here](https://sanjananana
 -	Coordinated 10 talks and workshops within two weeks of the first talk, exceeding prior year’s attendance rate by 50%
 
 ### PROJECTS
+**Latitude Pals |** Android app that allows you to work out with a friend in real time  			                     	     
+-	Focused on 3 critical features and used them to determine team focus and optimize market success of the app
+-	Gathered and analyzed user feedback from 3 rounds of testing to create each prototype, using paper prototypes and Adobe XD
+-	Utilized user feedback, market research, and design concepts through the design lifecycle starting from ideation to MVP 
+
+**Breadmaking Simulator |** Node.js app that mimics a RESTful API through a fun baking story  
+-	Created a basic server with Node.js and utilized connections to a MongoDB database to walk through the storyline
+
 ### SKILLS + INTERESTS
+**Skills:** Python; Java; C; HTML; Javascript; Node.js; Pandas; PyTorch; Human-Computer Interaction; Project Management; Program Management; Google Suite; Data Science; Research; Experimental Design; Business Writing; Communication; Agile; Design  
+**Interests:** Linguistics; Product Management; Program Management; Machine Learning; Research; Bad Design
+
