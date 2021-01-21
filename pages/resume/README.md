@@ -14,7 +14,7 @@ Looking for a clean + downloadable pdf version? [Click here](https://sanjananana
 -	Lead marketing strategy to promote growth of new Slack, Twitter, and LinkedIn with following increases of 73%
 -	Prepared effective EOY community survey to find the needs of the community by investigating challenges in their workspace
 
-### **NASA Goddard Space Flight Center |** Planetary Environments Laboratory division  
+**NASA Goddard Space Flight Center |** Planetary Environments Laboratory division  
 *Machine Learning Intern | Jun 2019 - Aug 2019*  
 -	Drove the first attempt of using machine learning to analyze soil samples from the Mars 2020 Perseverance rover
 -	Tripled the dataset from ~30 GB to ~100 GB to aid our problem of expensive data collection
