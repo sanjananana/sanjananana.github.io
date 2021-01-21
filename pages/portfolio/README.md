@@ -3,8 +3,8 @@ I've written quite a few hefty pieces. I've written several technical blog posts
 
 ## Miscellaneous
 Stuff I like to do for fun.
-![a lot of mugs on desk](files/media/alotofmugs.jpg)
-![animated bubble popping](files/media/bubble.gif)
+![a lot of mugs on desk](https://sanjananana.github.io/files/media/alotofmugs.jpg)
+![animated bubble popping](https://sanjananana.github.io/files/media/bubble.gif)
 
 
 
