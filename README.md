@@ -7,6 +7,6 @@ I'm a proud graduate from the University of Maryland with a BS in Computer Scien
 
 I'm super passionate about a lot of different things - AI/ML, linguistics, design, research, product, a good flan, etc. I also have experience doing a lot of different things - marketing, project management, design work, technical writing, strategy, engineering, etc. My (incredibly) mixed background is what makes me today: someone who wants to make a difference on tomorrow's products.
 
-Want to get to know me better? Check out my [resume](https://sanjananana.github.io/files/pdfs/SCResume_Website.pdf) and [writing portfolio](https://sanjananana.github.io/files/pdfs/Writing_Portfolio_SChowdhury.pdf)!
+Want to get to know me better? Check out my [resume](https://sanjananana.github.io/pages/resume/) and [writing portfolio](https://sanjananana.github.io/files/pdfs/Writing_Portfolio_SChowdhury.pdf)!
 
 Think I'm a cool cat? Feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/smchowdhury/) or [email](mailto:sanjanamchowdhury@gmail.com) :)
