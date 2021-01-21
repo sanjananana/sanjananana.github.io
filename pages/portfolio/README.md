@@ -1,8 +1,8 @@
 ## Writing Portfolio
-I've written quite a few hefty pieces. I've written several technical blog posts on AI, documents documenting(?) business planning + strategy, and training manuals detailing role responsibilities and lessons I've learned. Read some of my work on explainable machine learning, creating a business plan for a convenience store, and a guide on how to craft a good hackathon experience --> [Writing Portfolio](https://sanjananana.github.io/files/pdfs/Writing_Portfolio_SChowdhury.pdf).
+I've written quite a bit. I've written several technical blog posts on AI, documents documenting(?) business planning + strategy, and training manuals detailing role responsibilities and lessons I've learned. Read some of my work on explainable machine learning, creating a business plan for a convenience store, and a guide on how to craft a good hackathon experience --> [Writing Portfolio](https://sanjananana.github.io/files/pdfs/Writing_Portfolio_SChowdhury.pdf).
 
 ## Miscellaneous
-Stuff I like to do for fun.
+Stuff I like to make for fun.
 ![a lot of mugs on desk](https://sanjananana.github.io/files/media/alotofmugs.jpg)
 ![animated bubble popping](https://sanjananana.github.io/files/media/bubble.gif)
 
