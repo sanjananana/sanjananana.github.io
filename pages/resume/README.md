@@ -1,5 +1,5 @@
 # Resume
-Looking for a clean + downloadable pdf version? [Click here](https://sanjananana.github.io/files/pdfs/SCResume_Website.pdf/)!
+Looking for a clean + downloadable pdf version? [Click here](https://sanjananana.github.io/files/pdfs/SCResume_Website.pdf)!
 ## Sanjana Chowdhury
 -----------------------------------------------------------------
 ### EDUCATION
