@@ -18,7 +18,7 @@ pre { font-family: "Josefin Sans"; font-size: 13px; font-style: normal; font-var
 a {
   color: #00b8e6;
 }
-
+/*clickable page links in title*/
 ul.clickhere {
   list-style-type: none; 
   height:40px;
@@ -36,6 +36,12 @@ ul.clickhere {
   height:40px;
   font-weight: 700;
   float: left;
-  width:50px;
+  width:90px;
+}
+.clickhere li:first-child a {
+  border-radius:none;
+}
+.clickhere li:last-child a {
+  border-radius:none;
 }
 
