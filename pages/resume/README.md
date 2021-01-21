@@ -24,11 +24,19 @@ Looking for a clean + downloadable pdf version? [Click here](https://sanjananana
 **Bitcamp |** 3rd largest collegiate hackathon in the US hosting over +1200 people                                  
 *Experience Director | Jun. 2019 – July 2020*  
 -	Lead a brand-new team with unprecedented focus on team culture and had a team satisfaction rate of over 80%
--	Increased attendance to bonding events and Slack participation by organizing team feedback to create initiatives that foster team culture and organizer experience
+-	Increased attendance to bonding events and Slack participation by organizing team feedback to create initiatives that foster team culture and organizer experience  
 *Day-of Head Lead | Nov. 2018 – Apr. 2019*  
--	Supervised team of 20+ people responsible for negotiating resources for the event accommodating 1000+ attendees
+-	Supervised team of 20+ people responsible for negotiating resources for the event accommodating 1000+ attendees  
 *Mini-Events Lead | Nov. 2016 – Apr. 2018*
--	Piloted team culture initiatives after observing a lack of community which established a new organizer experience role and focus
+-	Piloted team culture initiatives after observing a lack of community which established a new organizer experience role and focus  
 
-## PROJECTS
-## SKILLS + INTERESTS
+**Technica |** World’s largest all-women’s hackathon hosting over +800 women                                  
+*Experience Director | Jan. 2018 – Jan. 2020*  
+-	Designed ways to improve event experience for hackers, organizers, and sponsors through studying previous accounts 
+-	Led team of 5 and established priorities and roles between everyone and coordinated their efforts before and during the event
+-	Created roadmaps with other stakeholders, such as design and marketing teams, to shape the development of the event  
+*Mini-Events Director | May 2017 – Nov. 2017*
+-	Coordinated 10 talks and workshops within two weeks of the first talk, exceeding prior year’s attendance rate by 50%
+
+### PROJECTS
+### SKILLS + INTERESTS
