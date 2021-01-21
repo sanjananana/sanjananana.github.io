@@ -22,12 +22,10 @@ a {
 ul.clickhere {
   list-style-type: none; 
   height:40px;
-  font-size: 18px;
+  width: 50%;
   font-weight: 700;
-  color:#00b8e6;
   background: none;
   border: none;
-  width: 50%;
   margin: 0 auto;
 }
 .clickhere li {
@@ -35,7 +33,7 @@ ul.clickhere {
   border-right: none; 
   font-weight: 700;
   float: left;
-  width:100px;
+  width:90px;
 }
 .clickhere li:first-child a {
   border-radius:0 0 0 0;
