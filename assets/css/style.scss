@@ -24,19 +24,16 @@ ul.clickhere {
   height:40px;
   width: 500px;
   font-weight: 700;
-  font-size: 16px;
-  font-weight: 700;
   background: none;
   border: none;
 }
 .clickhere li {
   display: inline;
-  font-size: 16px; 
   border-right: none; 
   height:40px;
   font-weight: 700;
   float: left;
-  width:90px;
+  width:100px;
 }
 .clickhere li:first-child a {
   border-radius:0 0 0 0;
