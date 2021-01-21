@@ -39,9 +39,14 @@ ul.clickhere {
   width:110px;
 }
 .clickhere li:first-child a {
-  border-radius:none;
+  border-radius:0 0 0 0;
 }
 .clickhere li:last-child a {
-  border-radius:none;
+  border-radius:0 0 0 0;
+}
+
+.clickhere a:hover, .clickhere a:focus {
+  color:#069;
+  font-weight:bold;
 }
 
