@@ -6,6 +6,13 @@ Looking for a clean + downloadable pdf version? [Click here](https://sanjananana
 **University of Maryland, College Park**  
 *Bachelor of Science - Computer Science, Bachelor of Arts - Linguistics | May 2020*  
 ### WORK EXPERIENCE
+**Photon Commerce |** FinTech startup automating invoicing + payments with AI  
+*Product Manager | Mar. 2021 - Present*  
+-	Lead product strategy focusing on AI, SaaS, and end-user experience as second product manager at the company
+-	Delivered and prioritized 5+ features to improve UX of core product by curating competitive analysis + user research
+-	Develop UX research strategy to test recommendations, aiming to improve task success rate by at least 30%
+-	Determine market sizing of uninvestigated opportunity by extrapolating data from industry reports & surveys
+
 **WhyLabs |** Startup with $4m seed funding working on ML observability solutions  
 *Technical Program Manager Intern | Jul. 2020 - Nov. 2020*  
 -	Established the strategic direction and framework for scaling a rapidly growing AI community, Rsqrd AI
@@ -14,30 +21,29 @@ Looking for a clean + downloadable pdf version? [Click here](https://sanjananana
 -	Lead marketing strategy to promote growth of new Slack, Twitter, and LinkedIn with following increases of 73%
 -	Prepared effective EOY community survey to find the needs of the community by investigating challenges in their workspace
 
+**Bitcamp |** 3rd largest collegiate hackathon in the US hosting over +1200 people                                  
+*Experience Director | Jun. 2019 – July 2020*  
+-	Piloted a new team with focus on team culture, achieving overall team satisfaction rate of over 80% in the first year 
+-	Identified pain points for team members using various research methods, establishing a central focus for creating initiatives that foster team culture and organizer experience leading to higher team retention 
+
+**Technica |** World’s largest all-women’s hackathon hosting over +800 women                                  
+*Experience Director | Jan. 2018 – Jan. 2020*  
+-	Developed a deep empathy for hackers and team members to design ways to improve event experience for all
+-	Identified, broke down, and prioritized requirements between team of 5, successfully executing 8-month roadmap
+-	Created roadmaps with other stakeholders, such as design and marketing teams, to shape the development of event 
+-	Developed relationships with vendors, design and events teams, and other directors to coordinate deadlines and services, ultimately improving their relationship with Technica and setting the precedent for future hackathons
+
 **NASA Goddard Space Flight Center |** Planetary Environments Laboratory division  
 *Machine Learning Intern | Jun 2019 - Aug 2019*  
 -	Drove the first attempt of using machine learning to analyze soil samples from the Mars 2020 Perseverance rover
 -	Tripled the dataset from ~30 GB to ~100 GB to aid our problem of expensive data collection
 -	Understood scientist and developer needs to communicate key requirements and influenced decisions on research
 
-### PROGRAM + PROJECT MANAGEMENT EXPERIENCE 
-**Bitcamp |** 3rd largest collegiate hackathon in the US hosting over +1200 people                                  
-*Experience Director | Jun. 2019 – July 2020*  
--	Lead a brand-new team with unprecedented focus on team culture and had a team satisfaction rate of over 80%
--	Increased attendance to bonding events and Slack participation by organizing team feedback to create initiatives that foster team culture and organizer experience  
-
+**Bitcamp |** 3rd largest collegiate hackathon in the US hosting over +1200 people
 *Day-of Head Lead | Nov. 2018 – Apr. 2019*  
 -	Supervised team of 20+ people responsible for negotiating resources for the event accommodating 1000+ attendees  
 
-*Mini-Events Lead | Nov. 2016 – Apr. 2018*
--	Piloted team culture initiatives after observing a lack of community which established a new organizer experience role and focus  
-
-**Technica |** World’s largest all-women’s hackathon hosting over +800 women                                  
-*Experience Director | Jan. 2018 – Jan. 2020*  
--	Designed ways to improve event experience for hackers, organizers, and sponsors through studying previous accounts 
--	Led team of 5 and established priorities and roles between everyone and coordinated their efforts before and during the event
--	Created roadmaps with other stakeholders, such as design and marketing teams, to shape the development of the event  
-
+**Technica |** World’s largest all-women’s hackathon hosting over +800 women
 *Mini-Events Director | May 2017 – Nov. 2017*
 -	Coordinated 10 talks and workshops within two weeks of the first talk, exceeding prior year’s attendance rate by 50%
 
