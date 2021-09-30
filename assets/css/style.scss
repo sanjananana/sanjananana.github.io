@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 /*Change font on website to automatically be Josefin Sans*/
 body {
-  font-family: "Avant Garde";
+  font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
 }
 /*Change size of specific elements*/
 h1 { font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } 
