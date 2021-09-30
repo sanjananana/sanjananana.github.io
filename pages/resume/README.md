@@ -8,8 +8,8 @@ Here is a list of all the things I've done.
 ### WORK EXPERIENCE
 **Freelance**\
 ***Startup Consultant** ➟ Sep. 2021 - Present*  
--	Realign goals & direction of a startup with an established product struggling to close deals and find P/M fit 
--	Designed roadmap with CTO and COO to create materials such as  pitch deck, sales pitches, and business plan for investors, sales, and customers aiming to identify target use cases and explain product value
+-	**Realign goals & direction of a startup** with an established product struggling to close deals and find P/M fit 
+-	Designed roadmap with CTO and COO to create materials such as **pitch deck, sales pitches, and market plan** for investors, sales, and customers aiming to identify target use cases and explain product value
 
 **Photon Commerce |** FinTech startup automating invoicing + payments with AI  
 ***Product Manager** ➟ Mar. 2021 - Sep. 2021*  
