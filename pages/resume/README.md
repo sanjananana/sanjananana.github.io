@@ -17,7 +17,8 @@ Achievements
 -	Introduced **agile process** and modern product management methodology to build out new product team 
 -	Pioneered **product discovery** & research for **several API products and SaaS product** that steered development
 -	Introduced and authored **product requirements documentation** for new API product and core SaaS offering detailing **market opportunity, customer value, and business value**, establishing alignment across the team
--	Identified $3.79T market opportunity from data from industry reports & surveys to estimate large markets \
+-	Identified $3.79T market opportunity from data from industry reports & surveys to estimate large markets
+
 Responsibilities 
 - **Led product strategy** with CEO to define goals for current and new AI-empowered automation products
 - Delivered **over 20 features** and bug fixes of SaaS offering including **market analyses & user research**
