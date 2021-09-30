@@ -1,25 +1,35 @@
 # Resume
-Looking for a clean + downloadable pdf version? [Click here](https://sanjananana.github.io/files/pdfs/SCResume_Website.pdf)!
+Here is a list of all the things I've done. 
 ## Sanjana Chowdhury
 -----------------------------------------------------------------
 ### EDUCATION
 **University of Maryland, College Park**  
 *Bachelor of Science - Computer Science, Bachelor of Arts - Linguistics | May 2020*  
 ### WORK EXPERIENCE
+**Freelance |** 
+*Startup Consultant | Sep. 2021 - Present*  
+-	Realign goals & direction of a startup with an established product struggling to close deals and find P/M fit 
+-	Designed roadmap with CTO and COO to create materials such as  pitch deck, sales pitches, and business plan for investors, sales, and customers aiming to identify target use cases and explain product value
+
 **Photon Commerce |** FinTech startup automating invoicing + payments with AI  
-*Product Manager | Mar. 2021 - Present*  
--	Lead product strategy focusing on AI, SaaS, and end-user experience as second product manager at the company
--	Delivered and prioritized 5+ features to improve UX of core product by curating competitive analysis + user research
--	Develop UX research strategy to test recommendations, aiming to improve task success rate by at least 30%
--	Determine market sizing of uninvestigated opportunity by extrapolating data from industry reports & surveys
+*Product Manager | Mar. 2021 - Sep. 2021*  
+Achievements
+-	Introduced **agile process** and modern product management methodology to build out new product team 
+-	Pioneered **product discovery** & research for **several API products and SaaS product** that steered development
+-	Introduced and authored **product requirements documentation** for new API product and core SaaS offering detailing **market opportunity, customer value, and business value**, establishing alignment across the team
+-	Identified $3.79T market opportunity from data from industry reports & surveys to estimate large markets 
+Responsibilities 
+- **Led product strategy** with CEO to define goals for current and new AI-empowered automation products
+- Delivered **over 20 features** and bug fixes of SaaS offering including **market analyses & user research**
+- Strategized **marketing and messaging efforts** to target both modern fintech companies and legacy industries 
+- **Gathered requirements** for new AI product based on customer requests and needs for engineering team
 
 **WhyLabs |** Startup with $4m seed funding working on ML observability solutions  
 *Technical Program Manager Intern | Jul. 2020 - Nov. 2020*  
 -	Established the strategic direction and framework for scaling a rapidly growing AI community, Rsqrd AI
--	Took almost full ownership of community and established branding with CEO while following 10-person startup into launch 
--	Delivered technical blog posts for both technical and non-technical audiences, allowing them both to enjoy various ML topics
--	Lead marketing strategy to promote growth of new Slack, Twitter, and LinkedIn with following increases of 73%
--	Prepared effective EOY community survey to find the needs of the community by investigating challenges in their workspace
+-	Wrote 8 technical blog posts for technical and non-technical audiences, allowing both to enjoy many ML topics 
+-	Composed product growth strategies & increased acquisition by 73% of new Slack, Twitter, and LinkedIn
+-	Designed EOY survey for community whitepaper by conducting interviews and industry research, crafting 7 effective questions intended to reduce attrition and maximize meaningful feedback
 
 **Bitcamp |** 3rd largest collegiate hackathon in the US hosting over +1200 people                                  
 *Experience Director | Jun. 2019 – July 2020*  
