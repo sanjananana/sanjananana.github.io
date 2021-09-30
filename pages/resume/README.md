@@ -6,7 +6,7 @@ Here is a list of all the things I've done.
 **University of Maryland, College Park**  
 *Bachelor of Science - Computer Science, Bachelor of Arts - Linguistics | May 2020*  
 ### WORK EXPERIENCE
-**Freelance** 
+**Freelance**\
 *Startup Consultant | Sep. 2021 - Present*  
 -	Realign goals & direction of a startup with an established product struggling to close deals and find P/M fit 
 -	Designed roadmap with CTO and COO to create materials such as  pitch deck, sales pitches, and business plan for investors, sales, and customers aiming to identify target use cases and explain product value
