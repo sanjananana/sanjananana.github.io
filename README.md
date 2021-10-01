@@ -1,14 +1,19 @@
-## Hi! I'm Sanjana
+# Product and Language Enthusiast
 
-I'm currently a product manager at a startup called Photon Commerce where I help lead product strategy focusing on AI, SaaS, and end-user experience. Check it out at -> [https://www.photoncommerce.com/](https://www.photoncommerce.com/)
+### Recent Work
+- [Get paid faster with invoice factoring](https://www.linkedin.com/feed/update/urn:li:activity:6830570822978048001/) 
+- [Why are card startups making so much bank rn](https://www.linkedin.com/pulse/why-card-startups-divvy-brex-ramp-booming-what-means-future-sanjana/)
 
-I graduated from the University of Maryland with a BS in Computer Science and BA in Linguistics. I've done some pretty cool stuff in my time. I have:
-1. Organized some of the nation's largest collegiate hackathons, [Technica](https://gotechnica.org/) and [Bitcamp](https://bit.camp/) for over 4 years
-2. Worked at NASA on the [ExoMars mission](https://www.nasa.gov/feature/goddard/2018/moma) to see how machine learning can be introduced in exploring data from Mars 
-3. Ran a [technical AI community](https://www.rsqrdai.org/) and helped build its brand - established presence on social media, wrote technical blog posts, and coordinated event logistics
+***
 
-I'm super passionate about a lot of different things - AI/ML, linguistics, design, research, product, a good flan, etc. I also have experience doing a lot of different things - marketing, project management, tiny bit of design work, technical writing, strategy, engineering, etc. My (incredibly) mixed background is what makes me today: someone who wants to make a difference on tomorrow's products.
+Product manager with experience in startups, mainly focusing on AI/ML (I worked with machine learning for the Mars Rover once, and I've had perpetual anxiety about model health ever since)
 
-Want to get to know me better? Check out my [resume](https://sanjananana.github.io/pages/resume/) and [portfolio](https://sanjananana.github.io/pages/portfolio/)!
+Experience working in FinTech and always wondering how our existing financial systems haven't collapsed yet.
 
-Think I'm a cool cat? Feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/smchowdhury/) or [email](mailto:sanjanamchowdhury@gmail.com) :)
+```
+Experience leading R&D for SaaS and API products. Crazy how much you can charge for an API call.
+```
+
+#### BS in Computer Science + BA in Linguistics 
+
+Currently working on creating a better logo.
