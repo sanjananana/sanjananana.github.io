@@ -1,4 +1,4 @@
-# Product and Language Enthusiast
+# Product-ish
 
 ### Recent Work
 - [Get paid faster with invoice factoring](https://www.linkedin.com/feed/update/urn:li:activity:6830570822978048001/) 
@@ -6,9 +6,9 @@
 
 ***
 
-Product manager with experience in startups, mainly focusing on AI/ML (I worked with machine learning for the Mars Rover once, and I've had perpetual anxiety about model health ever since)
+Product manager with experience in startups, mainly focusing on AI/ML (I worked with machine learning for the Mars Rover once, and I've had perpetual anxiety about bad data ever since)
 
-Experience working in FinTech and always wondering how our existing financial systems haven't collapsed yet.
+Experience working in FinTech and payments, and always wondering how our existing financial systems haven't collapsed yet.
 
 ```
 Experience leading R&D for SaaS and API products. Crazy how much you can charge for an API call.
