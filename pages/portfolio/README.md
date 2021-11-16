@@ -1,4 +1,8 @@
 # Portfolio
+## Product Marketing 
+I help build marketing and sales assets - defining users, use cases, and branding. 
+Here's a one-pager I made to help describe the product function and value of a nuanced technical product: [APSI Wifi tech one-pager](http://sanjananana.github.io/files/pdfs/One-Pager_APSIWifi.pdf)
+
 ## Writing Portfolio
 I've written quite a bit on current ML topics--> [AI Writing Portfolio](https://sanjananana.github.io/files/pdfs/AI%20Writing%20Portfolio.pdf). 
 
